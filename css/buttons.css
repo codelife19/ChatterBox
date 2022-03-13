@@ -1,0 +1,11 @@
+.button {
+    padding: .5em;
+    background: var(--clr-secondary);
+    color: var(--clr-primary);
+    font-size: var(--mobile-btn-fs);
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: 4px;
+    text-decoration: none;
+    width: 43px;
+}

@@ -1,0 +1,47 @@
+h1 {
+    font-size: var(--mobile-fs-h1);
+    font-weight: 600;
+    line-height: 3rem;
+
+}
+#view {
+    padding-bottom: .5em;
+}
+
+span {
+    color: var(--clr-secondary);
+}
+
+blockquote {
+    font-size: var(--mobile-fs-body);
+    padding: 1em 0;
+    letter-spacing: 1px;
+}
+
+p {
+font-size: var(--mobile-fs-body);
+letter-spacing: 1px;
+padding-bottom: 1em;
+
+}
+
+h3 {
+    font-size: var(--mobile-fs-h2);
+    margin-bottom: .5em;
+}
+
+.copyright {
+    color: #fff;
+    padding-top: 1em;
+}
+
+.read-link {
+    font-size: var(--mobile-fs-body);
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+figcaption {
+  text-align: center;
+  text-transform: capitalize;
+}

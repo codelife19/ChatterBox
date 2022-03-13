@@ -1,0 +1,15 @@
+
+  .photo {
+    width: 100%;
+    margin-bottom: 1em;
+    border: 1px var(--clr-primary) solid;
+  }
+
+  .social-links {
+    width: 32px;
+    height: auto;
+  }
+
+  #photo {
+      margin-top : .5em
+  }
